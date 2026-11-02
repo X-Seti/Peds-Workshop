@@ -11,3 +11,6 @@ dist/
 /_internal/
 /*.exe
 .venv/
+/*_dist/
+/Ped_Workshop
+/Ped_Workshop.app/
